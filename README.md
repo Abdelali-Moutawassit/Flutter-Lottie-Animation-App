@@ -19,7 +19,7 @@ This Flutter application demonstrates how to use **Lottie animations** in Flutte
 
 | Network Animation | Asset Animation |
 |------------------|----------------|
-| ![Network](https://github.com/user-attachments/assets/0dc71c33-7bc1-485f-8419-5dfa25ec1a0b) | ![Asset]((https://github.com/user-attachments/assets/c0617a8d-dd97-43a7-8688-a386904f0e95) |
+| ![Network](https://github.com/user-attachments/assets/0dc71c33-7bc1-485f-8419-5dfa25ec1a0b) | ![Asset](https://github.com/user-attachments/assets/c0617a8d-dd97-43a7-8688-a386904f0e95) |
 
 ---
 
